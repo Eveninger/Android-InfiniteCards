@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/Nighter/Developer/Android/Android-InfiniteCards/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/Nighter/Developer/Android/Android-InfiniteCards/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_2e59650b20123c2ada87bdc4f41fc45f936c150c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_15cc16b6d9f6241a441cc9c7ad750cce3faa8d1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_d5cf49e6df3ea5dc2d30265bd51e13c01eb33f4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_fc413388067941b3a53207355f867fc4469d9f25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_830bad388cae2f30575d72cd3245aa6e336e6288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Nighter/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/pre-dexed/debug/library-2.4.0_6551ac4cc9b2c2a940797b6c22d418b7f6f1c255.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Nighter/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_d21efa997257167eb1b9d6f9b4112357d05615da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_bd5c50559fa21c693adda7d0234fce5fd3abe5a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_8fdb273ee911fe60dde008232db29e8cf574a240.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Nighter/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0/constraint-layout-solver-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90493f2ea15ff3f57416368123e5d4d180e0c6fd">
+        <dex dex="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0_1e94f26fb765a4a78783355a0394d541ca6016a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_c79b1954f5fe67e7ef6e0b04ac9cf3020dff0e1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_84e975f314d4ec07623d3b975bd04e1e15298b6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d20672631818754557255886d3feb43e7fe75a66">
+        <dex dex="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0_fb5ce06350ade6695e08a72cae8293a9ef15a9bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/exploded-aar/com.bakerj/infinite-cards/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6016a93c71d83b32c0df9416f4aeab9f41396113">
+        <dex dex="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/pre-dexed/debug/com.bakerj-infinite-cards-1.0.2_02c2b043371663041254a6918430a8f3486bc076.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.3.1_98b144e5745c020e7d6c6e0fc89b82b4b755ab8b.jar" />
+    </item>
+
+</items>

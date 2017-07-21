@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/Nighter/Developer/Android/Android-InfiniteCards/infinite-cards/src/main/assets"/><source path="/Users/Nighter/Developer/Android/Android-InfiniteCards/infinite-cards/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/Nighter/Developer/Android/Android-InfiniteCards/infinite-cards/src/release/assets"/></dataSet></merger>

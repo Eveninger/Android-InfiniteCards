@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/Nighter/Developer/Android/Android-InfiniteCards/infinite-cards/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 491,
+                    "endColumn": 40,
+                    "endOffset": 527
+                },
+                "from": {
+                    "file": "/Users/Nighter/Developer/Android/Android-InfiniteCards/infinite-cards/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 40,
+                        "endOffset": 527
+                    }
+                }
+            }
+        ]
+    }
+]

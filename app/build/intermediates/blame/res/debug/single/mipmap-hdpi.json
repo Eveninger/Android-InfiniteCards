@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/res/merged/debug/mipmap-hdpi/pic3.png",
+        "source": "/Users/Nighter/Developer/Android/Android-InfiniteCards/app/src/main/res/mipmap-hdpi/pic3.png"
+    },
+    {
+        "merged": "/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/res/merged/debug/mipmap-hdpi/pic2.png",
+        "source": "/Users/Nighter/Developer/Android/Android-InfiniteCards/app/src/main/res/mipmap-hdpi/pic2.png"
+    },
+    {
+        "merged": "/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/res/merged/debug/mipmap-hdpi/pic4.png",
+        "source": "/Users/Nighter/Developer/Android/Android-InfiniteCards/app/src/main/res/mipmap-hdpi/pic4.png"
+    },
+    {
+        "merged": "/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/Nighter/Developer/Android/Android-InfiniteCards/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/res/merged/debug/mipmap-hdpi/pic1.png",
+        "source": "/Users/Nighter/Developer/Android/Android-InfiniteCards/app/src/main/res/mipmap-hdpi/pic1.png"
+    },
+    {
+        "merged": "/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/Nighter/Developer/Android/Android-InfiniteCards/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/Nighter/Developer/Android/Android-InfiniteCards/app/build/intermediates/res/merged/debug/mipmap-hdpi/pic5.png",
+        "source": "/Users/Nighter/Developer/Android/Android-InfiniteCards/app/src/main/res/mipmap-hdpi/pic5.png"
+    }
+]
